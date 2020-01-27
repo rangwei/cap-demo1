@@ -1,4 +1,4 @@
-# SAP Cloud Application Model Example
+# SAP Cloud Application Programming Model Example
 
 CDS Service + Fiori Element UI
 
